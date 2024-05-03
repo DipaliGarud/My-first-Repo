@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7C35-A85C
+
+ Directory of C:\Users\Lenovo\Desktop\Dipali Job finding\GIT\MyProject
+
+03-05-2024  11:54 AM    <DIR>          .
+02-05-2024  08:21 PM    <DIR>          ..
+03-05-2024  11:54 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  129,284,968,448 bytes free
